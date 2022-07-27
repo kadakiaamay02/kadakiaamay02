@@ -5,4 +5,4 @@ I am am currently working as a Software Engineering Intern at Amdocs, Inc. worki
 ![Amay's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadakiaamay02&show_icons=true&theme=dark&count_private=true&hide=prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadakiaamay02&theme=dark)](https://github.com/kadakaiamay02/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kadakiaamay02&repo=kadakaiaamay02)](https://github.com/kadakaiaamay02/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kadakiaamay02&repo=kadakaiaamay02)](https://github.com/kadakaiaamay02/kadakaiaamay02)
