@@ -6,4 +6,4 @@ I am am currently working as a Software Engineering Intern at Amdocs, Inc. worki
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadakiaamay02&theme=dark&count_private=true&count_forked=true)
 <a href="https://amaykadakia.com"></a>
 
-![](https://leetcard.kadakiaamay02/leetcode?site=cn)
+![](https://leetcard.jacoblin.cool/kadakiaamay02?theme=dark)
